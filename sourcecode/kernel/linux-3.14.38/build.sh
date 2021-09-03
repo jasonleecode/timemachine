@@ -1,0 +1,1 @@
+../../../tools/scripts/build_kernel.sh
